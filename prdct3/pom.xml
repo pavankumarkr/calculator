@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>feb</groupId>
-  <artifactId>prdct3</artifactId>
+  <artifactId>mulmodule</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>prdct3</name>
